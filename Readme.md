@@ -9,4 +9,4 @@
 ## 2020_Homework_sheet_submission
 * The image "2020" represents the solution for the year 2020 sheet in the excel file
 
-## The same script was used for all three files
+## VBA_HW is the script that was used for all three files
